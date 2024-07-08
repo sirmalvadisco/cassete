@@ -47,8 +47,8 @@
 	
 	$.Cassette.defaults 	= {
 		// song names. Assumes the path of each song is songs/name.filetype
-		songs			: [ //'ACSTICO_NOVO_TEMPO_-_NO_DESANIMAMOS', 'Al_cielo_yo_voy_-_Arautos_do_rei_con_Letra', '8_RENUEVAME__Cantos', 'DECLARACIN_-_ADORADORES_3', 'Eterna_Luz_De_Cristo_Letra_-_Frooct_Ft_Allan_Hernndez', 'ARAUTOS_DO_REI_-_AN_EXISTE_GRACIA', 'FUENTE_DE_AMOR__ALEXIS_QUINTEROS_FEAT_MARIANA_CORONEL_VIDEO_OFICIAL', 'Zimrah-_VOLVIENDO_YA_ESTS_Video_oficial', 'Sofia_Cceres_feat_Conexin_Cielo_-_Ha_nacido_el_Rey'
-		'LLUVIA'],
+		songs			: [ 'ACSTICO_NOVO_TEMPO_-_NO_DESANIMAMOS', 'Al_cielo_yo_voy_-_Arautos_do_rei_con_Letra', '8_RENUEVAME__Cantos', 'DECLARACIN_-_ADORADORES_3', 'Eterna_Luz_De_Cristo_Letra_-_Frooct_Ft_Allan_Hernndez', 'ARAUTOS_DO_REI_-_AN_EXISTE_GRACIA', 'FUENTE_DE_AMOR__ALEXIS_QUINTEROS_FEAT_MARIANA_CORONEL_VIDEO_OFICIAL', 'Zimrah-_VOLVIENDO_YA_ESTS_Video_oficial', 'Sofia_Cceres_feat_Conexin_Cielo_-_Ha_nacido_el_Rey'
+		],
 		fallbackMessage	: 'HTML5 audio not supported',
 		// initial sound volume
 		initialVolume	: 0.7
